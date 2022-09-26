@@ -1,0 +1,38 @@
+ProductSubcategoryID,CategoryID,Name
+1,1,Bread items
+2,1,Cake
+3,1,Chocolete
+4,1,Chips
+5,1,Fruit
+6,1,Pasta
+7,1,Pastry
+8,1,Ice Cream
+9,1,Sauce
+10,4,Cheese
+11,4,Yourget
+12,4,Milk
+13,5,Wine
+14,5,Tea
+15,5,Beer
+16,5,Brandy
+17,5,Rum
+18,5,Water
+19,5,Soft Drinks
+20,5,Coffee
+21,5,Soup
+22,7,Beef
+23,7,Chicken
+24,7,Pork
+25,7,Other Meat Items
+26,11,Curry
+27,11,Oil
+28,11,Leaves
+29,11,fruit/seed
+30,11,Manufacture ingrediants
+31,12,Clothe items
+32,12,Paper items
+33,12,Tools
+34,12,Bags
+35,9,Chicken
+36,9,Beef
+37,9,Pork

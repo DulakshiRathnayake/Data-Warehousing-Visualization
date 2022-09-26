@@ -1,0 +1,453 @@
+ProductID,ProductName, Price ,CategoryID,Class,ModifyDate,Resistant,IsAllergic,VitalityDays,ProductSubcategoryID
+1,Flour - Whole Wheat,"742,988",1,Medium,2/16/2018,Durable,NULL,NULL,29
+2,Cookie Chocolate Chip With,"912,329",2,Medium,2/12/2017,NULL,NULL,NULL,4
+3,Onions - Cippolini,"91,379",3,Medium,3/15/2018,Weak,FALSE,111,25
+4,Sauce - Gravy Au Jus Mix,"543,055",4,Medium,7/16/2017,Durable,NULL,NULL,9
+5,Artichokes - Jerusalem,"654,771",5,Low,8/16/2017,Durable,TRUE,27,3
+6,Wine - Magnotta - Cab Sauv,"797,184",6,High,5/25/2017,NULL,NULL,NULL,13
+7,Table Cloth - 53x69 Colour,"31,837",7,Medium,2/24/2017,Durable,FALSE,NULL,30
+8,Halibut - Steaks,"898,573",8,Medium,3/24/2018,NULL,TRUE,108,34
+9,Rabbit - Whole,"844,219",9,Medium,6/17/2017,Durable,NULL,NULL,25
+10,Scampi Tail,"950,957",10,Low,7/30/2017,Weak,TRUE,105,35
+11,Garbage Bags - Clear,"62,949",11,Low,1/5/2017,Durable,TRUE,67,33
+12,Ezy Change Mophandle,"493,356",12,Medium,11/1/2017,Durable,TRUE,NULL,32
+13,Water Tap,"282,232",1,Low,1/16/2017,Durable,FALSE,69,32
+14,Beef - Top Sirloin,"33,324",2,Medium,2/26/2017,Durable,TRUE,NULL,22
+15,Spoon - Soup Plastic,"32,442",3,Low,3/3/2017,Weak,TRUE,NULL,32
+16,Kellogs Special K Cereal,"547,246",4,Low,1/23/2017,Durable,TRUE,NULL,23
+17,Wine - White Mosel Gold,"439,182",5,Medium,3/1/2017,NULL,NULL,NULL,13
+18,Lamb - Whole Fresh,"233,966",6,Medium,12/19/2017,NULL,FALSE,NULL,25
+19,Tea - Earl Grey,"225,614",7,Medium,6/14/2017,Weak,TRUE,94,14
+20,Chocolate - Feathers,"859,011",8,Low,7/21/2017,Durable,TRUE,NULL,3
+21,Kiwi,"467,252",9,High,5/9/2018,Durable,NULL,NULL,5
+22,Rice - Jasmine Sented,"278,955",10,Medium,5/9/2017,Weak,NULL,48,4
+23,Crab - Imitation Flakes,"790,184",11,Medium,8/19/2017,Durable,TRUE,NULL,3
+24,Beer - Alexander Kieths Pale Ale,"89,037",12,Medium,5/23/2017,Durable,TRUE,65,15
+25,Soupcontfoam16oz 116con,"807,666",1,High,4/9/2017,Durable,TRUE,NULL,4
+26,Squid U5 - Thailand,"337,821",2,Medium,3/26/2018,Weak,FALSE,10,5
+27,Chocolate - Compound Coating,"171,724",3,Medium,10/29/2017,NULL,NULL,86,3
+28,Sobe ,"123,153",4,High,10/25/2017,Durable,TRUE,NULL,34
+29,Spinach - Baby,"335,883",5,Low,8/6/2017,Durable,TRUE,50,6
+30,Cheese - Brie Triple Creme,"67,899",6,Low,3/21/2018,Weak,NULL,72,10
+31,Yeast Dry - Fermipan,"739,851",7,Medium,4/17/2017,Durable,FALSE,NULL,29
+32,Lettuce - Treviso,"964,127",8,High,1/9/2017,Durable,TRUE,NULL,4
+33,Beans - Wax,"455,551",9,Medium,2/1/2017,Weak,TRUE,NULL,6
+34,Mustard Prepared,"433,463",10,Medium,9/21/2017,Weak,NULL,7,30
+35,Water - Mineral Natural,"157,233",11,Low,10/1/2017,Durable,TRUE,97,18
+36,Table Cloth 54x72 White,"692,574",12,Low,3/4/2018,Durable,TRUE,NULL,30
+37,Nut - Pistachio Shelled,"803,171",1,Low,2/27/2017,NULL,FALSE,NULL,5
+38,Sage - Ground,"816,579",2,High,9/26/2017,Weak,FALSE,NULL,28
+39,Dried Figs,"752,059",3,Medium,8/4/2017,Weak,FALSE,120,26
+40,Cocktail Napkin Blue,"89,372",4,Low,6/28/2017,NULL,NULL,NULL,17
+41,Cup - 6oz Foam,"81,721",5,Medium,3/15/2018,NULL,TRUE,NULL,32
+42,Bread - Raisin Walnut Oval,"810,488",6,High,4/1/2018,Weak,FALSE,NULL,1
+43,Sponge Cake Mix - Chocolate,"163,983",7,High,8/12/2017,Weak,TRUE,96,3
+44,Wine - White Colubia Cresh,"485,981",8,High,4/9/2018,Durable,TRUE,NULL,13
+45,Beef - Ground Medium,"795,324",9,Medium,3/23/2018,Weak,TRUE,NULL,22
+46,Lambcasing,"867,915",10,High,7/12/2017,Durable,FALSE,NULL,36
+47,Thyme - Lemon Fresh,"471,339",11,High,2/16/2018,Weak,FALSE,NULL,36
+48,Pecan Raisin - Tarts,"603,625",12,Low,11/26/2017,NULL,NULL,114,25
+49,Bacardi Breezer - Tropical,"614,317",1,High,1/3/2017,Durable,FALSE,NULL,4
+50,Pork - Kidney,"432,864",2,High,4/21/2018,Weak,TRUE,NULL,24
+51,Wine - Crozes Hermitage E.,"810,134",3,Medium,5/16/2017,NULL,NULL,NULL,13
+52,Turnip - White Organic,"556,059",4,Low,6/27/2017,Durable,FALSE,NULL,35
+53,Cassis,"926,279",5,Medium,2/16/2018,Weak,TRUE,NULL,4
+54,Liners - Banana Paper,"535,592",6,Medium,6/23/2017,Weak,TRUE,NULL,27
+55,Cinnamon Buns Sticky,"66,182",7,High,3/5/2018,NULL,FALSE,85,1
+56,Chips Potato Salt Vinegar 43g,"464,033",8,Low,10/10/2017,Weak,FALSE,NULL,4
+57,Sausage - Breakfast,"122,145",9,Low,11/3/2017,NULL,TRUE,103,34
+58,Dc Hikiage Hira Huba,"201,009",10,Low,10/24/2017,Durable,NULL,91,24
+59,Pastry - Butterscotch Baked,"735,389",11,High,4/8/2017,NULL,FALSE,NULL,3
+60,Pepper - Paprika Hungarian,"316,949",12,Medium,9/29/2017,Weak,NULL,NULL,25
+61,Sardines,"62,546",1,Low,12/3/2017,Durable,FALSE,90,6
+62,Pears - Bosc,"195,217",2,Medium,9/9/2017,NULL,NULL,13,5
+63,Cake - Mini Cheesecake,"562,689",3,Low,8/18/2017,Weak,NULL,NULL,2
+64,Vinegar - Sherry,"165,229",4,Low,8/5/2017,NULL,TRUE,94,17
+65,Brandy - Bar,"211,106",5,High,4/14/2017,Weak,FALSE,NULL,16
+66,Pie Filling - Cherry,"98,823",6,Medium,5/6/2018,Weak,FALSE,NULL,23
+67,Wine - Sogrape Mateus Rose,"37,805",7,Low,9/30/2017,NULL,TRUE,108,13
+68,Beets - Candy Cane Organic,"848,769",8,High,9/4/2017,Durable,FALSE,72,28
+69,Raspberries - Fresh,"876,092",9,Low,10/4/2017,NULL,TRUE,NULL,5
+70,Squid - Tubes / Tenticles 10/20,"631,846",10,Low,5/8/2017,Weak,TRUE,45,11
+71,Cheese - Wine,"744,076",11,Low,4/4/2018,Durable,NULL,NULL,13
+72,Milky Milk- 1.5l,"622,603",12,High,10/13/2017,Durable,FALSE,NULL,12
+73,Appetizer - Sausage Rolls,"481,907",1,Low,5/17/2017,Weak,TRUE,NULL,34
+74,Carbonated Water - Cherry,"136,241",2,Medium,4/26/2018,Durable,FALSE,26,18
+75,Chef Hat 20cm,418,3,High,9/14/2017,Durable,NULL,116,30
+76,Crab - Fume Blanc Fetzer,"656,765",4,Low,2/8/2017,Durable,FALSE,95,22
+77,Potatoes - Idaho 100 Count,"114,971",5,Medium,2/4/2018,Durable,FALSE,NULL,4
+78,Wine - Magnotta - Belpaese,"304,202",6,Medium,9/18/2017,Weak,NULL,NULL,13
+79,Pastla - Penne Rigate Dry,"95,045",7,High,7/9/2017,Weak,FALSE,104,28
+80,Wasabi Powder,"939,752",8,High,2/4/2018,Weak,TRUE,NULL,25
+81,Cookies - Assorted,"866,483",9,Medium,2/8/2017,NULL,NULL,NULL,4
+82,Jolt Cola - Electric Blue,"568,099",10,Low,4/12/2018,NULL,NULL,63,19
+83,Lamb - Ground,"508,837",11,High,10/22/2017,Durable,NULL,116,23
+84,Peas - Frozen,"903,019",12,Medium,8/25/2017,Durable,FALSE,NULL,34
+85,Cheese - Parmesan Cubes,"868,857",1,High,11/6/2017,Durable,NULL,NULL,10
+86,Longos - Grilled Chicken With,"183,791",2,Low,2/28/2018,Weak,FALSE,NULL,34
+87,Wine - Pinot Noir Latour,"37,847",3,Low,4/2/2017,NULL,FALSE,NULL,13
+88,Remy Red,"91,996",4,Low,12/19/2017,Durable,NULL,NULL,19
+89,Beef - Ground Extra Lean Fresh,"367,281",5,Medium,11/26/2017,Weak,TRUE,NULL,22
+90,Flavouring - Orange,"6,932",6,High,4/30/2018,NULL,TRUE,37,35
+91,General Purpose Trigger,"570,429",7,High,5/2/2017,Durable,TRUE,97,25
+92,Wine - Red Colio Cabernet,"602,161",8,Low,9/13/2017,Weak,NULL,NULL,13
+93,Bandage - Fexible 1x3,"8,119",9,Low,6/20/2017,Durable,FALSE,11,30
+94,V8 - Berry Blend,"435,109",10,High,3/15/2018,Weak,NULL,108,36
+95,Beans - Kidney White,"463,913",11,High,12/2/2017,NULL,NULL,NULL,22
+96,Cheese - Bocconcini,"621,993",12,High,7/7/2017,NULL,FALSE,NULL,10
+97,Veal - seafood,"247,798",1,Medium,8/14/2017,Weak,TRUE,NULL,2
+98,Shrimp - 31/40,"998,755",2,High,1/7/2017,Weak,FALSE,NULL,2
+99,Mustard - SeedDrink,"274,874",3,Low,12/27/2017,Weak,TRUE,NULL,19
+100,Pork - Loin Bone - In,"696,501",4,Low,3/27/2018,Durable,NULL,7,36
+101,Soup - Campbells Lentil,"83,011",5,Medium,2/19/2018,Durable,NULL,99,21
+102,Rosemary - Primerba Paste,"62,257",6,High,6/14/2017,NULL,FALSE,NULL,11
+103,Cream Of Tartar,"727,534",7,Low,2/22/2017,NULL,NULL,NULL,25
+104,Tia Maria,"982,471",8,High,1/4/2018,NULL,FALSE,NULL,16
+105,Ecolab - Mikroklene 4/4 L,"688,789",9,Medium,1/17/2017,Durable,TRUE,NULL,16
+106,Pickerel - Fillets,"18,753",10,High,12/11/2017,Weak,FALSE,19,25
+107,Bread - French Baquette,"74,151",11,High,2/10/2017,Weak,FALSE,NULL,1
+108,Pasta - Orecchiette,"790,038",12,High,3/1/2018,Weak,TRUE,NULL,6
+109,Muffin - Zero Transfat,"493,791",1,Medium,2/15/2018,Durable,FALSE,NULL,1
+110,Black Currants,"409,417",2,High,1/26/2018,Durable,NULL,48,35
+111,Scallops 60/80 Iqf,"349,061",3,Medium,1/13/2018,Durable,NULL,NULL,3
+112,Browning Caramel Glace,"817,943",4,High,2/15/2017,Weak,NULL,NULL,6
+113,Ocean Spray - Kiwi Strawberry,"105,964",5,Low,4/17/2017,NULL,FALSE,106,24
+114,Veal - Osso Bucco,"795,638",6,High,7/11/2017,Weak,TRUE,93,9
+115,Ocean Spray - Ruby Red,"450,466",7,Low,8/22/2017,Weak,FALSE,NULL,26
+116,Steam Pan - Half Size Deep,"5,736",8,Low,12/31/2017,Weak,TRUE,104,32
+117,Ketchup - Tomato,"68,638",9,High,3/27/2018,Weak,NULL,NULL,9
+118,Garbag Bags - Black,"65,967",10,High,5/2/2018,Weak,NULL,NULL,33
+119,Soup Campbells - Italian Wedding,"296,372",11,Medium,2/6/2018,NULL,FALSE,NULL,21
+120,Water - Spring Water 500ml,"27,314",12,Medium,6/23/2017,Durable,NULL,94,18
+121,Muffin Batt - Blueberry Passion,"60,976",1,Low,2/3/2018,Durable,NULL,NULL,1
+122,Table Cloth 62x114 White,"117,845",2,High,2/19/2018,Weak,FALSE,NULL,30
+123,Oil - Shortening - All - Purpose,"481,487",3,Low,2/15/2018,NULL,NULL,NULL,26
+124,Macaroons - Two Bite Choc,"182,891",4,Low,10/13/2017,NULL,TRUE,81,12
+125,blincker Whole,"61,417",5,Low,1/7/2017,Weak,FALSE,NULL,36
+126,Crackers - Trio,"141,914",6,Low,7/23/2017,NULL,NULL,76,10
+127,Island Oasis - Mango Daiquiri,"541,413",7,Medium,4/25/2017,NULL,FALSE,34,20
+128,Coffee - Irish Cream,"46,797",8,Medium,7/12/2017,Durable,NULL,71,20
+129,Chicken - Soup Base,"672,329",9,High,5/26/2017,Durable,TRUE,NULL,23
+130,Beef Wellington,"419,808",10,Low,3/11/2017,NULL,FALSE,NULL,35
+131,Anchovy Paste - 56 G Tube,"408,967",11,Medium,11/3/2017,Durable,FALSE,NULL,20
+132,Beer - Blue,"116,217",12,High,1/28/2018,Weak,FALSE,24,15
+133,Beef - Top Sirloin - Aaa,"29,327",1,Low,1/30/2018,Weak,NULL,NULL,35
+134,Wine - Toasted Head,"398,545",2,High,8/21/2017,Weak,TRUE,NULL,13
+135,Wiberg Super Cure,"109,641",3,Low,4/25/2018,Durable,FALSE,61,30
+136,Vol Au Vents,"243,913",4,Medium,1/3/2018,Weak,TRUE,NULL,34
+137,Wine - White Schroder And Schyl,"840,566",5,Low,2/19/2018,Durable,FALSE,NULL,13
+138,Rum - Coconut Malibu,"526,367",6,Low,2/24/2018,Durable,NULL,NULL,17
+139,Chicken - Wieners,"21,423",7,High,8/9/2017,Weak,FALSE,NULL,34
+140,Oregano - Dry Rubbed,"681,326",8,High,4/4/2018,Durable,NULL,16,28
+141,Tea - Herbal Sweet Dreams,"10,964",9,Low,1/19/2018,Durable,TRUE,37,14
+142,Pork - Bacon Double Smoked,"247,809",10,Medium,6/10/2017,Weak,TRUE,NULL,36
+143,Watercress,"426,169",11,Medium,3/13/2018,NULL,TRUE,NULL,23
+144,Placemat - Scallop White,"957,865",12,Medium,3/9/2018,Durable,FALSE,NULL,16
+145,Wine - Chardonnay South,"344,139",1,Low,4/18/2017,Durable,NULL,27,13
+146,Bananas,"752,486",2,High,3/18/2017,Durable,FALSE,NULL,5
+147,Cheese - Mozzarella,"496,197",3,High,5/29/2017,NULL,FALSE,NULL,10
+148,Beer - Sleemans Cream Ale,"285,553",4,Medium,4/19/2018,Durable,TRUE,91,15
+149,Zucchini - Yellow,"984,644",5,High,7/25/2017,Weak,TRUE,NULL,21
+150,Langers - Ruby Red Grapfruit,"406,552",6,High,4/10/2018,Durable,FALSE,NULL,34
+151,Mushrooms - Black Dried,"935,613",7,High,8/19/2017,Weak,TRUE,NULL,27
+152,Lentils - Red Dry,"588,128",8,Medium,8/22/2017,NULL,NULL,26,23
+153,Arizona - Green Tea,"702,382",9,Low,4/10/2017,Weak,FALSE,NULL,14
+154,Ice Cream Bar - Drumstick,"24,756",10,Medium,7/6/2017,Weak,TRUE,NULL,8
+155,Peas - Pigeon Dry,"635,524",11,High,2/21/2017,Weak,FALSE,NULL,22
+156,Sprouts - Alfalfa,"712,264",12,High,5/9/2018,Durable,FALSE,NULL,34
+157,Juice - Cranberry 341 Ml,"141,082",1,Medium,9/6/2017,NULL,FALSE,19,19
+158,Apricots Fresh,"544,643",2,High,9/18/2017,NULL,FALSE,18,12
+159,Eggplant - Asian,"921,053",3,Medium,12/29/2017,Durable,TRUE,NULL,23
+160,Beef Ground Medium,"546,874",4,Medium,11/3/2017,Weak,TRUE,NULL,22
+161,Longos - Chicken Wings,"646,118",5,Low,8/18/2017,Weak,NULL,NULL,5
+162,Sauce - Demi Glace,"27,353",6,Medium,12/8/2017,Weak,TRUE,117,9
+163,Tomatoes Tear Drop,"117,708",7,Low,10/7/2017,NULL,TRUE,116,5
+164,Loquat,"73,982",8,Medium,12/7/2017,NULL,FALSE,NULL,27
+165,Bread Crumbs - Japanese Style,449,9,Low,3/26/2017,NULL,FALSE,NULL,1
+166,Tray - 16in Rnd Blk,"232,843",10,High,4/25/2018,Durable,FALSE,NULL,32
+167,Knife Plastic - White,"788,615",11,Medium,5/26/2017,Durable,FALSE,NULL,32
+168,Milk - 2%,"707,419",12,Medium,1/3/2018,NULL,TRUE,29,12
+169,Water - Aquafina Vitamin,"685,996",1,Medium,7/26/2017,NULL,FALSE,NULL,18
+170,Initation Crab Meat,"206,553",2,Medium,12/26/2017,Durable,FALSE,NULL,2
+171,Gloves - Goldtouch Disposable,"216,794",3,High,3/21/2018,Durable,FALSE,NULL,32
+172,Sherry - Dry,"160,013",4,High,1/31/2017,Durable,NULL,72,19
+173,Rosemary - Dry,"44,544",5,Low,9/24/2017,Durable,FALSE,NULL,2
+174,Guinea Fowl,"615,047",6,High,3/13/2018,Durable,TRUE,NULL,2
+175,Oil - Safflower,"917,675",7,Low,10/12/2017,Weak,TRUE,52,26
+176,Smirnoff Green Apple Twist,"813,167",8,High,8/27/2017,Durable,TRUE,90,19
+177,Coconut - Shredded Sweet 0il,"691,677",9,Medium,4/18/2018,Weak,TRUE,NULL,26
+178,Pernod,"523,623",10,High,4/17/2018,Weak,TRUE,NULL,22
+179,Yoghurt Tubes,"838,752",11,Low,6/28/2017,Durable,NULL,26,11
+180,Chocolate - Dark,"308,932",12,Low,3/1/2018,Durable,TRUE,27,3
+181,Phyllo Dough,"645,718",1,Medium,2/24/2017,NULL,FALSE,NULL,7
+182,Campari,"25,586",2,Low,5/16/2017,Weak,FALSE,54,36
+183,Spice - Peppercorn Melange,"62,154",3,High,4/27/2018,Weak,FALSE,NULL,25
+184,Hersey Shakes,"265,776",4,Low,6/24/2017,Weak,TRUE,NULL,19
+185,Foam Dinner Plate,"484,195",5,Low,11/30/2017,Weak,NULL,40,4
+186,Muffin Mix - Blueberry,"820,839",6,Low,3/15/2017,Weak,FALSE,NULL,4
+187,Pepper - Black Whole,"413,835",7,Medium,10/20/2017,Durable,FALSE,31,25
+188,Cup - PAPER 7 Oz Clear,"781,768",8,High,7/27/2017,Durable,FALSE,91,31
+189,Bread - Roll Soft White Round,"763,021",9,High,7/1/2017,NULL,FALSE,16,1
+190,Cake - Cake Sheet Macaroon,"397,378",10,Medium,4/25/2018,Durable,TRUE,93,2
+191,Hickory Smoke Liquid,"10,283",11,High,4/30/2017,Weak,NULL,NULL,33
+192,Wine - Magnotta Merlot Sr Vqa,"295,923",12,Medium,6/3/2017,Durable,NULL,NULL,13
+193,Veal - Inside Choice,"605,314",1,Medium,2/26/2017,NULL,FALSE,19,4
+194,Lettuce - Frisee,"667,357",2,Medium,2/12/2018,NULL,FALSE,NULL,27
+195,Beets - Mini Golden,"35,208",3,Medium,8/18/2017,Durable,NULL,70,28
+196,Longos - Grilled Salmon With Bbq,"82,286",4,High,2/11/2017,NULL,NULL,NULL,34
+197,Mussels - Cultivated,"130,101",5,Medium,1/11/2018,NULL,TRUE,NULL,3
+198,Lime Cordial - Roses,"352,187",6,Low,4/6/2017,Durable,FALSE,60,19
+199,Pork - Hock And Feet Attached,"957,415",7,Medium,12/15/2017,Weak,NULL,105,23
+200,Garlic - ,"111,295",8,Medium,5/2/2017,Weak,FALSE,NULL,25
+201,Grenadine,"963,871",9,Medium,3/1/2018,Weak,TRUE,117,27
+202,Bay Leaf,"788,778",10,Low,10/2/2017,Weak,TRUE,NULL,27
+203,Chicken - Leg Boneless,"599,557",11,High,9/25/2017,Weak,NULL,29,23
+204,Scallop - St. Jaques,"77,809",12,Medium,12/6/2017,Durable,TRUE,5,34
+205,Turkey - Whole Fresh,"189,757",1,High,1/21/2017,Weak,FALSE,32,23
+206,Coconut oil,"7,756",2,Low,7/19/2017,NULL,NULL,NULL,26
+207,Coffee - Hazelnut Cream,"142,688",3,Medium,4/6/2018,NULL,TRUE,116,20
+208,Mushroom - Trumpet Dry,"87,335",4,Medium,6/6/2017,Weak,FALSE,15,15
+209,Sugar - Fine,"329,885",5,Low,1/31/2018,NULL,NULL,NULL,29
+210,Cheese - Briedanish,"822,358",6,High,11/3/2017,NULL,NULL,NULL,10
+211,Wine - Prosecco Valdobiaddene,"20,587",7,Low,1/22/2017,NULL,TRUE,76,13
+212,Curry Paste - Madras,"61,746",8,High,9/28/2017,Weak,TRUE,97,30
+213,Pate - Cognac,"705,891",9,High,3/23/2017,Weak,TRUE,39,30
+214,French Pastry - Mini Chocolate,"612,121",10,Low,3/9/2018,Durable,NULL,NULL,7
+215,Veal - Brisket Provimibnls,"901,157",11,High,9/10/2017,Weak,NULL,92,31
+216,Scallops - 10/20,"390,257",12,Low,4/4/2017,NULL,NULL,NULL,24
+217,Bread - Multigrain,"9,652",1,Medium,12/21/2017,Durable,TRUE,NULL,1
+218,Barramundi,"851,933",2,High,4/15/2017,Weak,TRUE,31,28
+219,Assorted Desserts,"589,787",3,Low,1/8/2017,Durable,FALSE,NULL,8
+220,Meldea Green Tea Liquor,"17,961",4,Low,1/12/2017,Weak,FALSE,NULL,29
+221,Bread Crumbs - Panko,"819,008",5,Low,7/6/2017,NULL,FALSE,NULL,1
+222,Sole - Dover Whole Fresh,"6,846",6,High,3/8/2018,NULL,FALSE,NULL,21
+223,Pail With Metal Handle 16l White,"944,399",7,Medium,7/6/2017,NULL,NULL,NULL,32
+224,Flour - Pastry,"288,618",8,High,8/9/2017,Weak,FALSE,NULL,29
+225,Wine - Charddonnay Errazuriz,"103,722",9,Medium,8/28/2017,Weak,NULL,NULL,13
+226,Chestnuts - Wholecanned,"920,872",10,Medium,10/18/2017,Durable,TRUE,NULL,20
+227,Cheese - Taleggio D.o.p.,"554,699",11,Low,4/14/2018,Weak,FALSE,NULL,10
+228,Sauce - Hollandaise,"778,083",12,High,12/19/2017,Durable,NULL,93,9
+229,Bread - Hot Dog Buns,"579,838",1,Medium,7/27/2017,Weak,FALSE,66,1
+230,Wine - Cahors Ac 2000 Clos,"835,389",2,Medium,9/1/2017,Weak,FALSE,75,13
+231,Crush - Cream Soda,"683,066",3,Medium,12/24/2017,NULL,TRUE,NULL,19
+232,Quiche Assorted,"33,949",4,Medium,1/12/2018,Weak,FALSE,NULL,20
+233,Bacing powder,"566,209",5,Low,5/4/2017,Durable,TRUE,NULL,29
+234,Tofu - Firm,"727,457",6,Medium,2/27/2017,Weak,NULL,NULL,23
+235,Bread - English Muffin,"345,061",7,High,5/9/2018,Durable,FALSE,NULL,1
+236,Tomato - Tricolor Cherry,"85,694",8,Low,10/2/2017,NULL,TRUE,113,5
+237,Mayonnaise - Individual Pkg,"656,303",9,Low,12/29/2017,Weak,FALSE,94,1
+238,Garlic,"284,065",10,Medium,5/22/2017,Durable,FALSE,NULL,25
+239,Soup - Campbells Cream Of,"76,019",11,Medium,6/3/2017,Weak,TRUE,NULL,21
+240,Wine - Chablis 2003 Champs,"708,596",12,Low,5/14/2017,Weak,FALSE,NULL,13
+241,Cheese - Cheddarsliced,"678,151",1,Medium,4/17/2017,NULL,NULL,NULL,10
+242,Thermometer Digital,"3,265",2,Low,5/17/2017,Weak,FALSE,11,32
+243,Sun - Dried Tomatoes,"451,883",3,Medium,11/2/2017,Weak,FALSE,104,29
+244,Beef - Rib Eye Aaa,"940,664",4,Low,1/4/2018,NULL,TRUE,NULL,22
+245,Grouper - Fresh,"376,791",5,Medium,4/4/2018,Weak,NULL,111,5
+246,Ice Cream Bar - Hageen Daz To,"485,371",6,Low,12/10/2017,Weak,FALSE,96,8
+247,Juice - Apple Cider,"590,033",7,High,3/14/2017,Weak,FALSE,58,19
+248,Beef - Inside Round,"993,193",8,Low,4/29/2017,NULL,NULL,NULL,22
+249,Cookie Dough - Double,"766,201",9,Medium,6/5/2017,Weak,TRUE,NULL,23
+250,Soup - Campbells Beef Barley,"644,951",10,Low,5/17/2017,Durable,FALSE,NULL,21
+251,Oranges - Navel 72,"117,087",11,Low,7/1/2017,Weak,TRUE,7,19
+252,Nantucket - Pomegranate Pear,"278,169",12,Medium,9/28/2017,Weak,NULL,83,5
+253,Wanton Wrap,"7,624",10,High,3/29/2017,NULL,NULL,NULL,25
+254,Soup - Canadian Pea Dry Mix,"777,804",11,Low,12/4/2017,Weak,TRUE,NULL,21
+255,Kellogs All Bran Bars,"292,287",12,Low,3/5/2018,Weak,FALSE,NULL,23
+256,Soup Knorr Chili With Beans,"957,024",1,Medium,5/3/2018,Durable,NULL,NULL,21
+257,Bay Leaf,"84,438",2,High,3/30/2017,Durable,NULL,NULL,27
+258,Tea - English Breakfast,"310,939",3,Low,2/16/2017,Weak,NULL,NULL,14
+259,Veal - Eye Of Round,"674,367",4,High,4/10/2017,NULL,TRUE,71,24
+260,Yogurt - Blueberry 175 Gr,"268,886",5,Low,8/13/2017,Durable,FALSE,31,11
+261,Chinese Foods - Chicken,"220,901",6,High,8/14/2017,Durable,TRUE,NULL,34
+262,Bagel - Plain,"364,605",7,Medium,4/19/2017,Durable,NULL,41,24
+263,Soupfoamcont12oz 112con,"507,497",8,Low,3/20/2018,Weak,FALSE,NULL,24
+264,Juice - V8 Splash,"494,497",9,High,6/2/2017,Durable,TRUE,NULL,19
+265,Mushroom - Porcini Dry,"139,292",10,Medium,3/20/2018,Weak,NULL,7,1
+266,Clam Nectar,"681,097",11,High,5/19/2017,Weak,NULL,NULL,19
+267,Grapes - Red,"5,125",12,Medium,5/28/2017,NULL,TRUE,NULL,5
+268,Vanilla Beans,"978,435",1,Low,1/25/2017,Durable,FALSE,NULL,1
+269,Wine - Blue Nun Qualitatswein,"26,706",2,Medium,3/10/2018,Durable,TRUE,NULL,13
+270,Cheese Cloth No 100,"44,216",3,Medium,4/17/2018,Durable,NULL,101,10
+271,Banana - Leaves,"733,954",4,High,8/13/2017,NULL,TRUE,NULL,27
+272,Chocolate - Semi Sweet Calets,"681,134",5,Low,8/1/2017,Weak,TRUE,13,3
+273,Bandage - Flexible Neon,"775,913",6,Medium,3/21/2018,Weak,NULL,NULL,30
+274,Papayas,"881,192",7,Low,1/3/2018,Weak,FALSE,NULL,5
+275,Corn Meal,"50,146",8,Medium,2/3/2018,Durable,TRUE,88,1
+276,Snapple - Iced Tea Peach,"492,508",9,High,2/20/2017,NULL,TRUE,NULL,14
+277,Sea Bass - Whole,"554,964",10,Medium,5/6/2017,Durable,NULL,118,2
+278,Apricots - Halves,"3,735",11,Medium,11/9/2017,Weak,FALSE,87,27
+279,Beef - Texas Style Burger,"911,828",12,Low,9/14/2017,Durable,TRUE,NULL,1
+280,Onion Powder,"618,352",1,Medium,1/26/2018,Durable,FALSE,NULL,25
+281,Bar Mix - Pina Colada 355 Ml,"330,839",2,High,8/6/2017,Durable,TRUE,NULL,16
+282,Lemonade - Natural 591 Ml,"561,506",3,Low,12/16/2017,Durable,FALSE,88,19
+283,Bread Fig And Almond,"11,882",4,Low,7/16/2017,Durable,FALSE,NULL,11
+284,Beer - Rickards Red,"934,888",5,Low,3/13/2017,Weak,FALSE,NULL,15
+285,Cheese - Mix,"718,302",6,Low,3/3/2017,NULL,NULL,107,10
+286,Beef - Prime Rib Aaa,"404,897",7,Low,3/29/2017,Durable,FALSE,29,22
+287,Bread - Italian Roll With Herbs,"57,709",8,Medium,10/16/2017,Durable,TRUE,NULL,1
+288,Orange oil - Canned Mandarin,"788,405",9,Low,10/7/2017,Durable,TRUE,NULL,26
+289,Sword Pick Asst,"435,169",10,Low,5/3/2017,Durable,FALSE,NULL,23
+290,Sauce - Rosee,"388,037",11,Low,1/6/2017,NULL,TRUE,110,9
+291,Crab - Dungeness Whole,"12,559",12,Medium,7/5/2017,NULL,FALSE,NULL,22
+292,Turkey - Oven Roast Breast,"345,364",10,Low,11/13/2017,NULL,FALSE,NULL,23
+293,Garlic - Elephant,"609,698",11,Medium,2/11/2017,Durable,NULL,NULL,25
+294, Alsace Gewurztraminer,"807,133",12,Low,2/28/2018,Weak,NULL,18,34
+295,Ice - Clear 300 Lb For Carving,"487,695",1,Low,2/7/2018,NULL,TRUE,NULL,8
+296,Wine - Valpolicella Masi,"313,545",2,Low,5/7/2018,Weak,FALSE,90,13
+297,Hinge W Undercut,"819,003",3,Low,7/7/2017,Durable,TRUE,120,23
+298,Pop Shoppe Cream Soda,"957,387",4,Medium,6/3/2017,NULL,FALSE,NULL,19
+299,Fuji Apples,"801,371",5,Medium,2/24/2018,NULL,FALSE,NULL,5
+300,Beans - Kidney Canned,"695,694",6,Medium,11/16/2017,NULL,TRUE,NULL,21
+301,Beer - Labatt Blue,"43,412",7,Medium,7/16/2017,Weak,NULL,NULL,15
+302,Doilies - 5 Paper,"611,598",8,Medium,2/18/2017,Durable,NULL,NULL,31
+303,Cod - Black Whole Fillet,"726,133",9,High,6/28/2017,NULL,FALSE,NULL,25
+304,Banana Turning,"721,984",10,High,6/27/2017,NULL,TRUE,NULL,17
+305,Pastry - Cheese Baked Scones,"910,997",11,Medium,2/10/2018,Weak,TRUE,19,7
+306,Pepper - White Ground,"435,953",12,Low,4/8/2018,Durable,TRUE,117,25
+307,Foam Cup 6 Oz,"502,256",1,High,11/16/2017,Durable,NULL,NULL,21
+308,Tea - Decaf Lipton,"881,209",2,High,8/2/2017,Durable,NULL,NULL,14
+309,Cocoa powder - Choc Chk,"276,344",3,Medium,3/9/2018,Durable,TRUE,76,29
+310,Coffee - Dark Roast,"79,978",4,Low,1/14/2018,Weak,FALSE,NULL,20
+311,Wonton Wrappers,"40,206",5,High,12/29/2017,Weak,NULL,56,32
+312,Salmon - Sockeye Raw,"840,645",6,Low,9/27/2017,Weak,TRUE,54,23
+313,Veal - Slab Bacon,"399,111",7,High,10/12/2017,NULL,NULL,116,20
+314,Salmon Steak - Cohoe 8 Oz,"56,015",8,Medium,7/23/2017,NULL,TRUE,82,25
+315,Wine - Gato Negro Cabernet,"938,047",9,Medium,1/7/2017,NULL,TRUE,NULL,13
+316,Cheese - Victor Et Berthold,"659,395",10,High,1/5/2018,Weak,FALSE,94,10
+317,Water - Green Tea Refresher,"352,723",11,Low,2/10/2018,Weak,FALSE,NULL,18
+318,Ecolab - Solid Fusion,"57,261",12,High,1/7/2018,NULL,NULL,76,29
+319,Towels - Paper / Kraft,"776,195",1,High,4/1/2017,NULL,NULL,NULL,31
+320,Yogurt - French Vanilla,"734,396",2,Low,12/22/2017,NULL,NULL,NULL,11
+321,Potatoes - Instant Mashed,"104,007",3,Medium,12/10/2017,Durable,NULL,NULL,4
+322,Onions - Vidalia,"262,846",4,Medium,12/28/2017,NULL,NULL,NULL,29
+323,Extract - Lemon,"543,266",5,High,1/31/2018,Weak,FALSE,99,27
+324,Apricots - Dried,"879,023",6,Low,3/4/2018,Durable,TRUE,42,27
+325,Halibut - Fletches,"31,657",7,Low,10/13/2017,NULL,TRUE,87,18
+326,Appetizer - Mushroom Tart,"38,859",8,High,2/7/2018,NULL,FALSE,NULL,36
+327,Appetizer - Mini Egg Roll Shrimp,"71,436",9,Medium,6/20/2017,NULL,FALSE,NULL,34
+328,Tuna - Salad Premix,"968,781",10,Medium,1/22/2017,Durable,TRUE,35,33
+329,Pork - Loin Center Cut,"393,496",11,High,4/5/2018,Weak,TRUE,NULL,24
+330,Olives - Kalamata,"187,914",12,Medium,2/5/2018,NULL,FALSE,NULL,23
+331,Cookies Cereal Nut,"673,505",10,High,12/23/2017,Durable,NULL,80,2
+332,Bouq All Italian - Primerba,"597,578",11,Low,4/12/2018,NULL,FALSE,NULL,20
+333,Cheese - Cottage Cheese,"202,364",12,High,1/23/2018,Weak,FALSE,NULL,10
+334,Ecolab - Lime - A - Way 4/4 L,"216,133",1,High,3/8/2018,Weak,TRUE,NULL,24
+335,Oil - Shorteningliqud Fry,"184,231",2,Low,7/14/2017,Weak,NULL,84,26
+336,Broom - Corn,"719,241",3,Low,6/19/2017,Durable,TRUE,NULL,30
+337,Breadcorn - Rye,"835,373",4,Low,6/21/2017,Durable,TRUE,NULL,30
+338,Cheese - Camembert,"289,899",5,Low,1/19/2017,Durable,NULL,NULL,10
+339,Beef - Striploin Aa,"2,389",6,Medium,6/9/2017,Weak,NULL,NULL,22
+340,Veal - Sweetbread,"282,349",7,High,4/4/2017,Durable,TRUE,NULL,32
+341,Bread - Roll Canadian Dinner,"902,641",8,Low,9/19/2017,Weak,TRUE,NULL,1
+342,Mangoes,"695,881",9,Medium,3/17/2017,NULL,FALSE,51,5
+343,Otomegusa Dashi Konbu,"512,061",10,High,12/7/2017,Durable,FALSE,NULL,5
+344,Sausage - Liver,"635,389",11,Low,8/26/2017,NULL,FALSE,114,34
+345,Bread - Calabrese Baguette,"985,978",12,Medium,5/18/2017,Durable,FALSE,67,10
+346,Cheese - Parmesan Grated,"171,914",1,Low,2/15/2018,NULL,TRUE,NULL,10
+347,Pail For Lid 1537,"946,253",2,Low,2/1/2017,NULL,TRUE,NULL,1
+348,Pasta - Cheese / Spinach Bauletti,"553,683",3,Low,11/29/2017,Durable,TRUE,54,1
+349,Puree - Mocha,"869,086",4,Medium,2/21/2018,NULL,TRUE,NULL,12
+350,Isomalt,"8,283",5,Low,2/2/2017,NULL,TRUE,NULL,11
+351,Hot Chocolate - Individual,"960,823",6,High,3/28/2017,Durable,NULL,NULL,19
+352,Beef - Tenderlion Center Cut,"246,393",7,Low,11/6/2017,NULL,FALSE,5,22
+353,Milk Powder,"181,191",8,Medium,3/4/2017,Weak,TRUE,80,12
+354,Crackers Cheez It,"66,975",9,Medium,3/5/2017,NULL,FALSE,NULL,4
+355,Olives - Stuffed,"591,687",10,Low,4/15/2018,Durable,FALSE,12,5
+356,Dc - Frozen Momji,"171,274",11,High,11/25/2017,Durable,NULL,NULL,7
+357,Tilapia - Fillets,"68,332",12,Medium,5/27/2017,Durable,FALSE,NULL,7
+358,Cheese - Boursin Garlic / Herbs,"847,111",1,Medium,9/2/2017,NULL,TRUE,NULL,10
+359,Rice - Long Grain,"690,327",2,High,1/21/2018,Durable,TRUE,96,4
+360,Wine - Hardys Bankside Shiraz,"522,407",3,Medium,1/4/2017,Durable,TRUE,89,13
+361,Coffee Decaf Colombian,"364,516",4,Medium,10/20/2017,Weak,TRUE,71,20
+362,Cumin - Whole,"533,476",5,Medium,10/26/2017,Durable,NULL,NULL,4
+363,Cornflakes,"487,712",6,High,9/6/2017,NULL,TRUE,NULL,3
+364,mint leaves,"88,429",7,High,2/1/2017,NULL,NULL,NULL,27
+365,Wine - Red Harrow Estates Cab,"126,274",8,Medium,1/23/2017,Weak,TRUE,95,13
+366,Tahini Paste,"804,483",9,High,1/25/2018,NULL,FALSE,NULL,12
+367,Bread - Italian Corn Meal Poly,"638,281",10,Medium,1/12/2018,NULL,TRUE,65,30
+368,Flour - Teff,"182,978",11,Low,12/14/2017,NULL,FALSE,NULL,29
+369,Rambutan,"871,785",12,Medium,1/10/2017,NULL,TRUE,10,5
+370,Muffin - Carrot Individual Wrap,"218,806",10,Low,11/28/2017,Weak,TRUE,NULL,7
+371,Creme De Banane - Marie,"824,022",11,High,7/18/2017,Durable,NULL,NULL,4
+372,Wine - Two Oceans Cabernet,"62,824",12,Low,1/22/2018,NULL,TRUE,NULL,13
+373,Beef - Montreal Smoked Brisket,"548,719",1,Medium,8/1/2017,Durable,FALSE,NULL,35
+374,Jagermeister,"493,846",2,Low,5/7/2018,Durable,FALSE,NULL,16
+375,Snapple Lemon Tea,"831,755",3,High,4/5/2017,NULL,TRUE,80,14
+376,Pasta - Angel Hair,"408,126",4,High,9/26/2017,Durable,TRUE,51,6
+377,Wine - Red Cooking,"750,785",5,Medium,1/22/2017,Durable,FALSE,7,13
+378,Bread Foccacia Whole,"907,877",6,High,6/8/2017,Durable,FALSE,NULL,1
+379,Smoked Paprika,"893,046",7,High,10/18/2017,NULL,FALSE,81,4
+380,Wine - White Cab Sauv.on,"859,743",8,High,1/5/2018,NULL,TRUE,NULL,13
+381,Vaccum Bag 10x13,"442,337",9,High,1/6/2018,NULL,NULL,41,33
+382,Soup - Campbells Bean Medley,"517,754",10,Medium,11/28/2017,Weak,NULL,NULL,21
+383,Cake - Box Window 10x10x2.5,"99,694",11,High,4/10/2017,Weak,NULL,NULL,2
+384,Fond - Neutral,"565,197",12,High,3/3/2018,NULL,TRUE,105,4
+385,Pork - Back Short Cut Boneless,"227,091",1,High,11/11/2017,Durable,FALSE,97,36
+386,Sprouts - Baby Pea Tendrils,"427,112",2,Medium,2/16/2017,Weak,FALSE,NULL,3
+387,Fondant - Icing,"416,386",3,High,2/9/2018,Durable,FALSE,100,34
+388,Table Cloth 120 Round White,"135,389",4,Medium,11/21/2017,Durable,TRUE,NULL,30
+389,Pomello,"624,447",5,Medium,4/1/2018,NULL,NULL,103,32
+390,Seedlings - Mix Organic,"12,956",6,Low,12/27/2017,NULL,FALSE,NULL,20
+391,Bread - Bistro White,"650,908",7,Medium,1/24/2017,NULL,TRUE,72,1
+392,Puree - Passion Fruit,"988,263",8,High,2/25/2018,NULL,TRUE,33,5
+393,Olive - Spread Tapenade,"599,572",9,Low,5/8/2017,NULL,NULL,NULL,5
+394,Rum - Mount Gay Eclipes,"501,484",10,High,6/6/2017,Durable,TRUE,76,17
+395,Juice - Lime,"917,833",11,Low,10/22/2017,Weak,TRUE,NULL,19
+396,Tea - Jasmin Green,"369,165",12,High,4/3/2018,Durable,FALSE,NULL,14
+397,Juice - Happy Planet,"208,169",1,Medium,11/17/2017,Weak,FALSE,70,19
+398,Wine - Wyndham Estate Bin 777,"423,632",2,High,11/5/2017,Weak,TRUE,67,13
+399,Berry Brulee,"509,114",3,Medium,8/4/2017,NULL,TRUE,NULL,27
+400,Carbonated Water - Blackcherry,"181,495",4,High,8/30/2017,Durable,TRUE,NULL,18
+401,Tart Shells - Sweet 4,"533,634",5,High,2/3/2017,NULL,NULL,51,28
+402,Butter - Unsalted,"763,275",6,High,6/27/2017,Durable,NULL,6,12
+403,Liners - Baking Cups soupe,"681,898",7,Medium,11/20/2017,NULL,NULL,NULL,21
+404,Pants Custom Dry Clean,"65,028",8,Medium,3/27/2017,Durable,FALSE,NULL,30
+405,Pastry - Raisin Muffin - Mini,"4,278",9,Medium,11/25/2017,Durable,TRUE,NULL,7
+406,Shrimp - Baby Warm Water,"897,999",10,High,7/13/2017,Durable,FALSE,NULL,18
+407,Pepsi - Diet 355 Ml,"697,674",11,High,4/8/2017,Weak,FALSE,NULL,19
+408,Blueberries,"687,346",12,Low,3/6/2017,NULL,FALSE,NULL,5
+409,Skirt - 29 Foot,"23,522",10,Medium,4/8/2018,Durable,NULL,NULL,30
+410,Fenngreek Seed,"18,356",11,Low,7/20/2017,NULL,NULL,91,2
+411,Durian Fruit,"420,489",12,Low,11/3/2017,NULL,TRUE,NULL,5
+412,Lettuce - California Mix,"160,456",1,High,4/27/2018,Weak,TRUE,NULL,3
+413,Ice Cream Bar - Oreo Cone,"954,065",2,High,3/25/2018,Durable,FALSE,5,8
+414,Sauerkraut,"830,585",3,Low,1/17/2017,Durable,NULL,87,25
+415,Mussels - Frozen,"80,069",4,High,5/7/2017,Durable,FALSE,NULL,4
+416,Baking Powder,"846,763",5,Low,3/31/2018,Weak,TRUE,NULL,5
+417,Lamb - Pieces Diced,"433,781",6,Medium,7/18/2017,NULL,NULL,12,35
+418,Truffle Cups - Brown,"922,516",7,Low,11/12/2017,NULL,TRUE,NULL,5
+419,Pork - Belly Fresh,"861,338",8,Low,7/31/2017,Weak,TRUE,8,36
+420,Whmis - Spray Bottle Trigger,"699,163",9,High,4/15/2018,Weak,TRUE,NULL,32
+421,Soup V8 Roasted Red Pepper,"388,096",10,High,4/25/2018,Durable,FALSE,NULL,21
+422,Garlic - Primerba Paste soupe,"502,892",11,High,2/22/2017,Weak,NULL,60,21
+423,Fish - Scallops Cold Smoked,"558,531",12,Medium,1/21/2018,NULL,NULL,35,31
+424,Vinegar - Tarragon,"858,828",1,Medium,5/23/2017,NULL,FALSE,NULL,32
+425,Wine - Redchard Merritt,"567,898",2,Medium,11/4/2017,Weak,NULL,NULL,13
+426,Scallops - Live In Shell,"835,759",3,Low,9/29/2017,NULL,NULL,NULL,7
+427,Wine - Vineland Estate Semi - Dry,"463,252",4,High,9/17/2017,Durable,FALSE,NULL,13
+428,Wine - Ruffino Chianti,"47,235",5,Medium,2/25/2017,NULL,TRUE,48,13
+429,Beef - Short Loin,"576,013",6,High,7/17/2017,Weak,FALSE,NULL,22
+430,Milk - 1%,"462,589",7,Low,5/12/2017,Durable,FALSE,84,12
+431,Muffin Chocolate Individual Wrap,"199,957",8,Medium,3/18/2018,Weak,FALSE,89,4
+432,Beer - Original Organic Lager,"327,153",9,High,7/26/2017,NULL,FALSE,44,15
+433,Beans - Kidney Red Dry,"398,762",10,Low,3/14/2018,Durable,FALSE,11,4
+434,Cookie - Dough Variety,"711,551",11,Low,2/18/2017,Weak,TRUE,NULL,4
+435,Salsify Organic,"326,109",12,High,12/2/2017,Durable,TRUE,NULL,2
+436,Table Cloth 81x81 White,"679,063",1,High,7/13/2017,NULL,FALSE,25,30
+437,Chips Potato All Dressed - 43g,"835,856",2,High,1/9/2017,Durable,NULL,NULL,4
+438,Juice - Orange,"449,415",3,Low,1/15/2017,Durable,NULL,NULL,19
+439,Beef - Chuck Boneless,"560,919",4,Medium,4/9/2017,NULL,FALSE,108,22
+440,Pork - Inside,"329,092",5,Low,5/1/2017,NULL,NULL,NULL,24
+441,Blackberries-cornflake,"729,439",6,Medium,3/19/2018,Weak,NULL,NULL,8
+442,Wine - Ej Gallo Sierra Valley,"729,041",7,Medium,12/6/2017,NULL,NULL,106,13
+443,Lettuce - Spring Mix,"900,169",8,Low,12/22/2017,NULL,FALSE,79,9
+444,Cheese - Cambozola,"440,886",9,Low,9/13/2017,Durable,NULL,56,10
+445,Pastry - Choclate Baked,"592,467",10,High,2/23/2017,Weak,NULL,76,7
+446,Sunflower Seed Raw,"490,452",11,High,2/6/2017,NULL,NULL,18,6
+447,Salmon - Atlantic Skin On,"34,198",12,High,4/12/2018,NULL,TRUE,NULL,6
+448,Gatorade - Xfactor Berry,"768,988",1,Low,4/22/2017,NULL,FALSE,NULL,5
+449,Nantuket Peach Orange,"421,414",4,Low,1/31/2017,NULL,FALSE,NULL,11
+450,Wine - Vidal Icewine Magnotta,"7,107",5,Low,12/1/2017,NULL,NULL,NULL,13
+451,Soup - Campbells Tomato Ravioli,"935,384",5,Low,9/16/2017,Durable,FALSE,NULL,21
+452,Napkin White - Starched,"285,653",12,Low,1/6/2017,Durable,NULL,NULL,30
