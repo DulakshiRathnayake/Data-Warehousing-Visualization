@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SuperstoreGrocery_SSRS", "SuperstoreGrocery_SSRS\SuperstoreGrocery_SSRS.rptproj", "{6627FD14-EE51-4A31-88B0-424163749881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6627FD14-EE51-4A31-88B0-424163749881}.Debug|Default.ActiveCfg = Debug
+		{6627FD14-EE51-4A31-88B0-424163749881}.Debug|Default.Build.0 = Debug
+		{6627FD14-EE51-4A31-88B0-424163749881}.Debug|Default.Deploy.0 = Debug
+		{6627FD14-EE51-4A31-88B0-424163749881}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{6627FD14-EE51-4A31-88B0-424163749881}.DebugLocal|Default.Build.0 = DebugLocal
+		{6627FD14-EE51-4A31-88B0-424163749881}.Release|Default.ActiveCfg = Release
+		{6627FD14-EE51-4A31-88B0-424163749881}.Release|Default.Build.0 = Release
+		{6627FD14-EE51-4A31-88B0-424163749881}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3145B90C-A18E-4D5E-A8AF-116253AD7A1C}
+	EndGlobalSection
+EndGlobal
